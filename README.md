@@ -11,5 +11,5 @@
 
   - Client:  WPF Client
   - Center Server: Global Dbase API.  Product/Asset/UNS/...  
-  - Local Server: Mqtt Broker; Device manager;  Local DBase API. Device/Measurement 
+  - Local Server: Mqtt Broker; Device manager;  Local DBase API. Device/Measurement/... 
   - Sensor: A mqtt sensor, starts with support of temperature, humidity, pressure, luminosity.  
